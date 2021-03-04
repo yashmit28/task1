@@ -55,4 +55,4 @@ fi
 ![o3](https://user-images.githubusercontent.com/60083481/90335537-453e9e00-dff3-11ea-8da1-7ee2a90c3f15.jpg)
 
 **Yashmit Sharma** <br>
-**Technical Volunteer**
+
